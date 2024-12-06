@@ -7,10 +7,15 @@ Descrição do Projeto
 O projeto implementa um pipeline completo de classificação de textos, que inclui:
 
 Pré-processamento de dados: limpeza e tokenização.
+
 Extração de características: utilizando o modelo TF-IDF.
+
 Modelos de Machine Learning: comparação entre Logistic Regression, Decision Tree, Gradient Boosting e Random Forest.
+
 Validação do modelo: métricas como precisão, recall, F1-score e acurácia.
+
 O notebook principal do projeto foi desenvolvido no JupyterLab.
  
 Link do vídeo no YouTube
+
 https://youtu.be/6_Ke33B5jQ4
